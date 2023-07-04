@@ -1,4 +1,5 @@
 ### Hi there! 👋
+I am currently working on Machine Learning and its applications.
 
 <a href="https://www.linkedin.com/in/sunidhi-singh-2b6082161/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25px"/></a>
 <a href="mailto:sunidhi01.pgec20@iiitranchi.ac.in"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="25px"/></a>
