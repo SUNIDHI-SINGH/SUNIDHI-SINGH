@@ -45,6 +45,18 @@ I have a strong academic background in **Electronics, Embedded Systems, and Mach
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun fact: **Nothing is funny!** 😆  
 
+### 📚 Novels I've Read  
+I love reading novels in my free time! Here are some of my favorites:  
+
+#### **Reckless** - Sidney Sheldon  
+<img src="https://m.media-amazon.com/images/I/51fX4fHTMoL.jpg" width="150" alt="Reckless by Sidney Sheldon">  
+
+#### **The Silent Patient** - Alex Michaelides  
+<img src="https://m.media-amazon.com/images/I/71PCP1u2IHL.jpg" width="150" alt="The Silent Patient by Alex Michaelides">  
+
+#### **Things You Save in a Fire** - Catherine Center  
+<img src="https://m.media-amazon.com/images/I/91-uBdp+w9L.jpg" width="150" alt="Things You Save in a Fire by Catherine Center">  
+
 ---
 
 Thanks for visiting my profile! 🚀  
