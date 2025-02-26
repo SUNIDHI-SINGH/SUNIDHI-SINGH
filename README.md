@@ -56,39 +56,58 @@ I have a strong academic background in **Electronics, Embedded Systems, and Mach
 - ⚡ Fun fact: **Nothing is funny!** 😆  
 
 ### 📚 Novels I've Read  
-I love reading novels in my free time! Here are some of my favorites:   
+I love reading novels in my free time! Here are some of my favorites:  
 
-#### **The Silent Patient** - By Alex Michaelides  
-<img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/Thesilentpatient.png" width="150" alt="The Silent Patient by Alex Michaelides">  
-
-#### **Things You Save in a Fire** - By Catherine Center  
-<img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/fire.png" width="150" alt="Things You Save in a Fire by Catherine Center"> 
-
-#### **Reckless** - By Sidney Sheldon  
-<img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/Reckless.png" width="150" alt="Reckless by Sidney Sheldon"> 
-
-#### **What Young India Wants** - By Chetan Bhagat  
-<img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/Reckless.png" width="150" alt="What Young India Wnts by Chetan Bhagat"> 
-
-#### **The diary of a Young Girl** - By Anne Frank  
-<img src="[https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/fire.png](https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/diaryofyounggirl.png)" width="150" alt="The diary of a Young Girl by Anne Frank">
-
-#### **Gulliver's Travel** - By Jonathan Swift  
-<img src="[https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/fire.png](https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/gulliverstravel.png)" width="150" alt="Gulliver's Travel by Jonathan Swift">
-
-#### **The story of my life** - By Hellen Keller  
-<img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/hellenkeller.png" width="150" alt="Things The story of my life By Hellen Keller">
-
-#### **Wat, Shoots and Leaves ** - By Lynne Truss 
-<img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/punctuation.png" width="150" alt="Eat's Shoots and Leaves By Lynne Truss">
-
-#### **Time stops at Shyamli** - By Ruskin Bond  
-<img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/shyamli.png" width="150" alt="Time stops at Shyamli By Ruskin Bond">
-
-#### **Wings of Fire** - By APJ Abdul Kalam  
-<img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/wingsoffire.png" width="150" alt="Wings of Fire by APJ Abdul Kalam">
-
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/Thesilentpatient.png" width="150"><br>
+      <b>The Silent Patient</b><br>By Alex Michaelides
+    </td>
+    <td align="center">
+      <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/fire.png" width="150"><br>
+      <b>Things You Save in a Fire</b><br>By Catherine Center
+    </td>
+    <td align="center">
+      <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/Reckless.png" width="150"><br>
+      <b>Reckless</b><br>By Sidney Sheldon
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/chetanbhagart.png" width="150"><br>
+      <b>What Young India Wants</b><br>By Chetan Bhagat
+    </td>
+    <td align="center">
+      <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/diaryofyounggirl.png" width="150"><br>
+      <b>The Diary of a Young Girl</b><br>By Anne Frank
+    </td>
+    <td align="center">
+      <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/gulliverstravel.png" width="150"><br>
+      <b>Gulliver's Travels</b><br>By Jonathan Swift
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/hellenkeller.png" width="150"><br>
+      <b>The Story of My Life</b><br>By Helen Keller
+    </td>
+    <td align="center">
+      <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/punctuation.png" width="150"><br>
+      <b>Eats, Shoots & Leaves</b><br>By Lynne Truss
+    </td>
+    <td align="center">
+      <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/shyamli.png" width="150"><br>
+      <b>Time Stops at Shyamli</b><br>By Ruskin Bond
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/wingsoffire.png" width="150"><br>
+      <b>Wings of Fire</b><br>By APJ Abdul Kalam
+    </td>
+  </tr>
+</table>
 
 ---
 
