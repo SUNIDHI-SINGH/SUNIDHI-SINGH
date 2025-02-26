@@ -72,8 +72,6 @@ I love reading novels in my free time! Here are some of my favorites:
       <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/Reckless.png" width="150"><br>
       <b>Reckless</b><br>By Sidney Sheldon
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/chetanbhagart.png" width="150"><br>
       <b>What Young India Wants</b><br>By Chetan Bhagat
@@ -82,12 +80,12 @@ I love reading novels in my free time! Here are some of my favorites:
       <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/diaryofyounggirl.png" width="150"><br>
       <b>The Diary of a Young Girl</b><br>By Anne Frank
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/gulliverstravel.png" width="150"><br>
       <b>Gulliver's Travels</b><br>By Jonathan Swift
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/hellenkeller.png" width="150"><br>
       <b>The Story of My Life</b><br>By Helen Keller
@@ -100,14 +98,13 @@ I love reading novels in my free time! Here are some of my favorites:
       <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/shyamli.png" width="150"><br>
       <b>Time Stops at Shyamli</b><br>By Ruskin Bond
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/wingsoffire.png" width="150"><br>
       <b>Wings of Fire</b><br>By APJ Abdul Kalam
     </td>
   </tr>
 </table>
+
 
 ---
 
