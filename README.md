@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5c54a7c9-a9c0-4748-a87a-b6f083a27ca5)### Hi there! 👋  
+### Hi there! 👋  
 I am currently pursuing my Ph.D. at IIT Delhi in **"Understanding Video Game Addiction: An AI-based Approach"**, which integrates psychology, generative AI, and machine learning.  
 
 I have a strong academic background in **Electronics, Embedded Systems, and Machine Learning**, with a focus on hardware acceleration and AI applications.  
