@@ -103,6 +103,12 @@ I love reading novels in my free time! Here are some of my favorites:
       <b>Wings of Fire</b><br>By APJ Abdul Kalam
     </td>
   </tr>
+   <tr>
+    <td align="center">
+      <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/Holocaust.png" width="150"><br>
+      <b>Man's Search For Meaning</b><br>By Victore E. Frankl
+    </td>
+   </tr>
 </table>
 
 
