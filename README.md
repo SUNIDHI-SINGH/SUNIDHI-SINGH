@@ -18,11 +18,20 @@ I have a strong academic background in **Electronics, Embedded Systems, and Mach
 ---
 
 ### 📫 Connect with me:  
-<a href="https://www.linkedin.com/in/sunidhi-singh-2b6082161/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25px"/></a>  
-<a href="mailto:sunidhi01.pgec20@iiitranchi.ac.in"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="25px"/></a>  
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Github" height="25" />  
-[![Github](https://img.shields.io/github/followers/SUNIDHI-SINGH?label=Follow&style=social)](https://github.com/SUNIDHI-SINGH)  
-![](https://visitor-badge.laobi.icu/badge?page_id=SUNIDHI-SINGH.SUNIDHI-SINGH)  
+<p>
+  <a href="https://www.linkedin.com/in/sunidhi-singh-2b6082161/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25px"/>
+  </a>
+  <a href="mailto:sunidhi01.pgec20@iiitranchi.ac.in">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="25px"/>
+  </a>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Github" height="25" />
+  <a href="https://github.com/SUNIDHI-SINGH">
+    <img src="https://img.shields.io/github/followers/SUNIDHI-SINGH?label=Follow&style=social"/>
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SUNIDHI-SINGH.SUNIDHI-SINGH"/>
+</p>
+
 
 
 ---
