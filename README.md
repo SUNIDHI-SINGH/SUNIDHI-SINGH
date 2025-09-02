@@ -113,7 +113,7 @@ I love reading novels in my free time! Here are some of my favorites:
       <b>Hunger's Daughter</b><br>By Nirmala Govindarajan
     </td>
        <td align="center">
-      <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/PCODandThyroidr.png" width="150"><br>
+      <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/PCODandThyroid.png" width="150"><br>
       <b>The PCOD and Thyroid Book</b><br>By Rujuta Diwekar
     </td>
     <td align="center">
