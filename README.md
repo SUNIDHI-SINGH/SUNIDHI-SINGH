@@ -110,11 +110,11 @@ I love reading novels in my free time! Here are some of my favorites:
     </td>
     <td align="center">
       <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/hungersdaughter.png" width="150"><br>
-      <b>Man's Search For Meaning</b><br>By Nirmala Govindarajan
+      <b>Hunger's Daughter</b><br>By Nirmala Govindarajan
     </td>
     <td align="center">
       <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/beautifuldog.png" width="150"><br>
-      <b>Man's Search For Meaning</b><br>By Rob Kuglur
+      <b>A Dog named Beautiful</b><br>By Rob Kuglur
     </td>
    </tr>
 </table>
