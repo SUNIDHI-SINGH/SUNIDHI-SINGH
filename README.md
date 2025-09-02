@@ -112,6 +112,10 @@ I love reading novels in my free time! Here are some of my favorites:
       <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/hungersdaughter.png" width="150"><br>
       <b>Hunger's Daughter</b><br>By Nirmala Govindarajan
     </td>
+       <td align="center">
+      <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/PCODandThyroidr.png" width="150"><br>
+      <b>The PCOD and Thyroid Book</b><br>By Rujuta Diwekar
+    </td>
     <td align="center">
       <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/beautifuldog.png" width="150"><br>
       <b>A Dog named Beautiful</b><br>By Rob Kuglur
