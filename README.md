@@ -120,6 +120,10 @@ I love reading novels in my free time! Here are some of my favorites:
       <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/beautifuldog.png" width="150"><br>
       <b>A Dog named Beautiful</b><br>By Rob Kuglur
     </td>
+      <td align="center">
+      <img src="https://github.com/SUNIDHI-SINGH/SUNIDHI-SINGH/blob/main/Images/STREE.png" width="150"><br>
+      <b>STREE - The Women Of The Ramayana</b><br>By Lalitha Balasubramanian and Jay Shukla
+    </td>
    </tr>
 </table>
 
